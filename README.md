@@ -1,22 +1,21 @@
-# LaTeX-template-for-Word
+# DHBW MA - Stroetmanns LaTeX-lookalike
 
-Many people lack a good template for writing academic lab reports and therefore, I am sharingmy LaTeX like template in Word. 
-LaTeX is a typesetting language used primarily in academic environments. 
-Characteristics of a LaTeX report is often numbered headings, a special font (computer modern) and wide margins. 
-The benefits of LaTeX are numerous but sometimes it can be more time efficient to write the report in Word.
+Einige Studenten der DHBW fehlt eine gute Vorlage zum Erstellen von wissenschaftlichen Arbeiten. Ich möchte hier eine Vorlage teilen, die vom Aussehen sehr stark am Skript des [Prof. Dr. Karl Stroetmann](https://www.mannheim.dhbw.de/suche/ansprechpersonen?tx_dhbwcontacts_contactsingleforsearch%5Baction%5D=showSingle&tx_dhbwcontacts_contactsingleforsearch%5Bcontroller%5D=Contact&tx_dhbwcontacts_contactsingleforsearch%5Bperson%5D=284&cHash=94993e0d0b7fa8843e034dc4a229809a "DHBW Mannheim: Ansprechpersonen") orientiert ist. 
 
-<img src="example.png" width="500"/>
+Das Skript des Dozenten ist in LaTeX geschrieben, einer Satzsprache, welche hauptsächlich in wissenschaftlichen Umgebungen Anwendung findet. Auch aus diesem Grund werden viele Studenten der praxisorientierten Studiengänge damit nie in Verbindung treten. Sie können so nicht von den vielen Vorteilen von LaTeX Gebrauch machen und schreiben ihre Texte viel effizienter in Word.
+Dennoch bietet LaTeX ein professionelles Erscheinungsbild der fertigen Arbeit. Charakteristika umfassen nummerierte Überschriften, eine spezielle Schriftart (computer modern) und breite Ränder.
 
-## Example of report written with this template:
-http://sebastiannilsson.com/wp-content/uploads/2013/12/MPR-271-Improving-the-throughput-at-Lightning-Inc.-%E2%80%93-Sebastian-Nilsson-and-Pontus-2-2.pdf
+![Beispiel-Bild](example.png)
 
-## Install
-1. Download and install the Computer Modern Fonts at http://sourceforge.net/projects/cm-unicode/files/cm-unicode/0.7.0/
-2. Download this template. Either open it and start writing or apply the template to an already existing document. 
-Both should work fine.
+## Installation
 
+1. Die spezielle Schriftart herunterladen und installieren: [http://sourceforge.net/projects/cm-unicode/files/cm-unicode/0.7.0/](http://sourceforge.net/projects/cm-unicode/files/cm-unicode/0.7.0/)
+2. Die Vorlage herunterladen und öffnen. Alternativ bei bestehendem Dokument als Vorlage auswählen.
+Beides sollte funktionieren.
 
-## Support my creation of open source software:
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=sebnil&url=https://github.com/sebnil/LaTeX-template-for-Word)
+## Danksagung
 
-<a href='https://ko-fi.com/A0A2HYRH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+Mein Dank gilt...
+
+- [Sebastian Nilsson](https://github.com/sebnil "Sebastian Nilsson auf GitHub"), dem Ersteller des Repository [LaTeX-template-for-Word](https://github.com/sebnil/LaTeX-template-for-Word), sowie
+- [Prof. Dr. Karl Stroetmann](https://github.com/karlstroetmann/ "Karl Stroetmann auf GitHub") für seine ausgezeichneten Vorlesungen und Unterlagen.
